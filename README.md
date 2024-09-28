@@ -41,7 +41,7 @@ Travel Box is a comprehensive travel management system designed to streamline op
 Database Schema: image
 ![Database Schema](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(141).png)
 
-Database Schema: image
+ER Diagram: image
 ![Database Schema](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/shared%20image%20(11).jfif)
 ## Project Highlights
 A log in page will arrive at the time of log in:
