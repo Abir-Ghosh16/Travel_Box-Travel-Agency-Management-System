@@ -42,13 +42,13 @@ Database Schema: image
 ![Database Schema](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(141).png)
 
 ER Diagram: image
-![Database Schema](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/shared%20image%20(11).jfif)
+![Database Schema](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/shared%20image%20(11).png)
 ## Project Highlights
 A log in page will arrive at the time of log in:
 ![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(148).png)
 Email Verification for Sign Up Process:
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(149).png)
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(150).png)
+![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(186).png)
+![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(187).png)
 ![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(151).png)
 Customer can see tour packages and search desire packages using filter:
 ![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(157).png)
@@ -66,19 +66,19 @@ Agency can add packages:
 Agency can delete package:
 ![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(167).png)
 Agency can see packages booked by Customer:
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(168).png)
+![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(188).png)
 Agency can see consultation request:
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(169).png)
+![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(189).png)
 Admin Dashboard:
 ![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(172).png)
 Admin can add another Admin:
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(173).png)
+![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(190).png)
 Admin can manage Agency:
-![image](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(174).png)
+![image](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(191).png)
 Admin can manage Customer:
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(175).png)
+![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(192).png)
 Admin can see booked packages: 
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(176).png)
+![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(193).png)
 
 
 
